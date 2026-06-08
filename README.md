@@ -3,7 +3,7 @@
 ## INFORMACION
 * **Nombre Completo:** Jorge Alexander Galan Aguilar
 * **Número de Carné:** 2903612025
-* **Universidad:** UNIVERSIDAD TECNOLOGICA DE EL SALVADOR, INGENIERIA EN SISTEMAS, ASIGNATURA PROGRAMACION ORIENTADA A OBJETOS.
+* **Universidad:** UNIVERSIDAD TECNOLOGICA DE EL SALVADOR, INGENIERIA EN SISTEMAS, ASIGNATURA PROGRAMACION 1
 <img width="1770" height="1014" alt="image" src="https://github.com/user-attachments/assets/ef840f7b-eff7-4c58-89cc-78846bcb5973" />
 
 ---
